@@ -1,4 +1,4 @@
-📌 Employee Floor Planner – Workplace Map Manager
+📌 Employee Floor Planner –Workplace-Satff-Map
 
 Employee Floor Planner est une application web interactive pour gérer et organiser les employés sur un plan d’étage.
 L’interface est fluide, claire et responsive, avec des règles d’accès strictes pour garantir une organisation professionnelle et cohérente.
@@ -58,7 +58,7 @@ Mockup: plan d’étage avec zones et employés non assignés
 
 📁 Structure du projet
 ```
-Workplace-Map-Manager
+–Workplace-Satff-Map
 ├── index.html
 ├── styles/
 │    ├── style.css
@@ -97,7 +97,7 @@ Git / GitHub – Versionnement & Déploiement
 🌐 Navigateurs testés : Chrome, Firefox, Edge
 
 🔧 Installation
-git clone https://github.com/ezraidimariam/Workplace-Map-Manager.git
+git clone https://github.com/ezraidimariam/Workplace-Satff-Map.git
 
 
 Ouvrir index.html dans le navigateur
