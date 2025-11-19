@@ -43,7 +43,7 @@ Nettoyage → toutes zones sauf Archives
 📁 Structure du projet
 
 📁 Workplace-Map-Manager
-
+ ```
  ├── index.html
  ├── styles/
  │    ├── style.css
@@ -56,6 +56,7 @@ Nettoyage → toutes zones sauf Archives
  │    ├── images/
  │    └── icons/
  └── README.md
+```
 🧰 Technologies utilisées
 
 HTML5 (Structure sémantique)
