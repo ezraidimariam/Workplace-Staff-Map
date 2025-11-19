@@ -102,7 +102,7 @@ Git / GitHub – Versionnement & Déploiement
 🌐 Navigateurs testés : Chrome, Firefox, Edge
 
 🔧 Installation
-git clone https://github.com/ezraidimariam/Workplace-Staff-Map.git
+git clone https://github.com/ezraidimariam/Workplace-Staff-Map.git   
 
 
 Ouvrir index.html dans le navigateur
