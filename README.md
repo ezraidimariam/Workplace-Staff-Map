@@ -4,6 +4,8 @@ Employee Floor Planner est une application web interactive pour gérer et organi
 L’interface est fluide, claire et responsive, avec des règles d’accès strictes pour garantir une organisation professionnelle et cohérente.
 
 ✨ Fonctionnalités principales
+
+
 ➕ Ajout d’employés via modale
 
 Nom, rôle, email, téléphone
@@ -12,13 +14,16 @@ Photo de profil
 
 Expériences professionnelles
 
+
 📋 Gestion des employés
 
 Liste dynamique des employés non assignés
 
 Déplacement des employés vers 6 zones du bâtiment
 
+
 🔒 Règles d’accès automatiques :
+
 
 Réception → Réceptionnistes
 
@@ -97,7 +102,7 @@ Git / GitHub – Versionnement & Déploiement
 🌐 Navigateurs testés : Chrome, Firefox, Edge
 
 🔧 Installation
-git clone https://github.com/ezraidimariam/Workplace-Satff-Map.git
+git clone https://github.com/ezraidimariam/Workplace-Staff-Map.git
 
 
 Ouvrir index.html dans le navigateur
@@ -127,8 +132,4 @@ Gestion multi-étages
 API externe
 
 
-استبدلي صورة الـ mockup بالـ screenshot الفعلي من المشروع
-
-أضيفي أي badges إضافية: HTML5, CSS3, JS, License
-
-استعملي emoji و spacing باش README يكون جذاب للعين
+و
