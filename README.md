@@ -1,69 +1,75 @@
-📌 Employee Floor Planner –Workplace-Satff-Map
+📌 Employee Floor Planner — Workplace Staff Map
 
-Employee Floor Planner est une application web interactive pour gérer et organiser les employés sur un plan d’étage.
-L’interface est fluide, claire et responsive, avec des règles d’accès strictes pour garantir une organisation professionnelle et cohérente.
+Employee Floor Planner est une application web interactive permettant de gérer et organiser les employés sur un plan d’étage.
+Elle offre une interface fluide, claire et responsive, avec des règles d'accès strictes pour garantir une organisation professionnelle et cohérente.
 
 ✨ Fonctionnalités principales
+➕ Ajout d’employés via une modale
 
+Informations collectées :
 
-➕ Ajout d’employés via modale
+-Nom
 
-Nom, rôle, email, téléphone
+-Rôle
 
-Photo de profil
+-Email
 
-Expériences professionnelles
+-Téléphone
 
+-Photo de profil
 
-📋 Gestion des employés
+-Expériences professionnelles
 
-Liste dynamique des employés non assignés
+📋 Gestion dynamique des employés
 
-Déplacement des employés vers 6 zones du bâtiment
+-Liste des employés non assignés
 
+-Déplacement des employés vers l'une des 6 zones du bâtiment
 
-🔒 Règles d’accès automatiques :
+-Mise à jour automatique de la liste
 
+🔒 Règles d’accès automatiques
+-Zone	Rôle autorisé
+-Réception	Réceptionnistes
+-Salle des serveurs	Techniciens IT
+-Sécurité	Agents de sécurité
+-Manager	Accès total
+-Nettoyage	Toutes zones sauf Archives
+❌ Suppression & retrait
 
-Réception → Réceptionnistes
+-Bouton X pour retirer un employé du plan
 
-Salle des serveurs → Techniciens IT
+👤 Profil de l’employé
 
-Sécurité → Agents de sécurité
+-Informations détaillées affichées via une modale dédiée
 
-Manager → accès total
+🔍 Recherche
 
-Nettoyage → toutes zones sauf Archives
-
-❌ Suppression / retrait via bouton X
-
-👤 Profil détaillé de chaque employé
-
-🔍 Recherche par nom ou rôle
+-Filtrage par nom ou rôle
 
 📱 Responsive Design
 
-Desktop : +1280px
+Desktop : ≥ 1280 px
 
-Laptop : 1024–1279px
+Laptop : 1024–1279 px
 
-Tablet : 768–1023px
+Tablette : 768–1023 px
 
-Mobile : –767px
+Mobile : < 767 px
 
 💾 Fonctionnalités optionnelles
 
-LocalStorage
+-Sauvegarde via LocalStorage
 
-Logs internes
+-Logs internes
 
 🖼️ Aperçu du projet
 
-Mockup: plan d’étage avec zones et employés non assignés
+-Mockup : plan d’étage avec zones + employés non assignés
 
 📁 Structure du projet
 ```
-–Workplace-Satff-Map
+Workplace-Staff-Map
 ├── index.html
 ├── styles/
 │    ├── style.css
@@ -79,57 +85,53 @@ Mockup: plan d’étage avec zones et employés non assignés
 ```
 🧰 Technologies utilisées
 
-HTML5 – Structure sémantique
+-HTML5 — Structure sémantique
 
-CSS3 – Flexbox, Grid, Media Queries
+-CSS3 — Flexbox, Grid, Media Queries
 
-JavaScript Vanilla – Logique + DOM
+-JavaScript Vanilla — DOM + logique interne
 
-LocalStorage – Optionnel
+-LocalStorage (optionnel)
 
-Git / GitHub – Versionnement & Déploiement
+-Git / GitHub — Versionnement & déploiement
 
 🧪 Tests & Validation
 
-✅ HTML validé via W3C Validator
+✅ Validation HTML (W3C Validator)
 
 ✅ Vérification CSS
 
 ✅ Tests des règles d’accès
 
-✅ Tests manuels : Ajout / suppression, Modales, Déplacements, Responsiveness
+✅ Tests manuels (ajout, suppression, modales, déplacements, responsive)
 
 🌐 Navigateurs testés : Chrome, Firefox, Edge
 
 🔧 Installation
-git clone https://github.com/ezraidimariam/Workplace-Staff-Map.git   
+--git clone https://github.com/ezraidimariam/Workplace-Staff-Map.git
 
 
-Ouvrir index.html dans le navigateur
-
-L'application fonctionne immédiatement (aucune dépendance)
+➡️ Ouvrir index.html dans le navigateur.
+-Aucune installation ou dépendance requise.
 
 🌐 Déploiement
 
 Compatible avec :
 
-GitHub Pages
+-GitHub Pages
 
-Netlify
+-Netlify
 
 📊 Améliorations futures
 
-Mode Admin
+-Mode Admin
 
-Drag & Drop des employés
+-Drag & Drop des employés
 
-Exportation des configurations (JSON)
+-Exportation des configurations (JSON)
 
-Authentification
+-Authentification
 
-Gestion multi-étages
+-Gestion multi-étages
 
-API externe
-
-
-و
+-Connexion à une API externe
